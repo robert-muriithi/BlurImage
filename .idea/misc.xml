@@ -6,6 +6,10 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17604166666666668" />
         <entry key="app/src/main/res/layout/fragment_apps.xml" value="0.17604166666666668" />
         <entry key="app/src/main/res/layout/fragment_games.xml" value="0.17604166666666668" />
+        <entry key="app/src/main/res/layout/fragment_games2.xml" value="0.17604166666666668" />
+        <entry key="app/src/main/res/layout/horizontal_row.xml" value="0.17604166666666668" />
+        <entry key="app/src/main/res/layout/recycler_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/vertical_app_recycler.xml" value="0.17239583333333333" />
       </map>
     </option>
   </component>
